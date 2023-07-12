@@ -1,0 +1,1 @@
+{"traceSegments":[{"traceSegments":[{"length":68,"id":"706b2bb82cc0cd940b21646f:project:$Microservice_Name$before[0]","type":"protected"},{"length":7,"id":"706b2bb82cc0cd940b21646f:project:$Microservice_Name$","type":"protected"},{"length":314,"id":"706b2bb82cc0cd940b21646f:project:End","type":"protected"}],"id":"706b2bb82cc0cd940b21646f:project","type":"composite"}],"traces":{}}
